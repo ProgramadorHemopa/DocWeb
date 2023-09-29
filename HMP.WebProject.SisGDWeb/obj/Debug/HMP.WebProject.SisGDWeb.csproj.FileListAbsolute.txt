@@ -1,0 +1,1 @@
+C:\VSSRoot\SisGDWeb\HMP.WebProject.SisGDWeb\HMP.WebProject.SisGDWeb\bin\Debug\HMP.WebProject.SisGDWeb.exe.config
